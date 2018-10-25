@@ -70,4 +70,4 @@ struct hp                       //unsigned!
         }
         return _A;
     }
-}
+};
