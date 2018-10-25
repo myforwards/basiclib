@@ -1,4 +1,4 @@
-//high-precision ver.2
+//high-precision ver.3
 #include<cstdio>
 #include<cstring>
 #define num(c) ((c)-'\x30')
